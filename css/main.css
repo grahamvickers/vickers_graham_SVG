@@ -1,0 +1,12 @@
+@charset "utf-8";
+/*css document*/
+
+.hidden {
+	display: none;
+}
+
+#logo
+{
+  width: 30%;
+  display:inline-block;
+}
