@@ -5,8 +5,13 @@
 	display: none;
 }
 
-#logo
+.image-wrapper
 {
-  width: 30%;
-  display:inline-block;
+
+}
+
+img
+{
+	width: 100%;
+	display: block;
 }
